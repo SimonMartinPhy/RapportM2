@@ -1,0 +1,41 @@
+##World
+/gate/geometry/setMaterialDatabase	data/GateMaterials.db
+/gate/world/setMaterial Air
+/gate/world/geometry/setXLength 10 m
+/gate/world/geometry/setYLength 10 m
+/gate/world/geometry/setZLength 10 m
+
+##Phantom
+
+/gate/world/daughters/name	Phantom
+/gate/world/daughters/insert	box
+/gate/Phantom/geometry/setXLength	221 mm
+/gate/Phantom/geometry/setYLength	70 mm
+/gate/Phantom/geometry/setZLength	70 mm
+/gate/Phantom/setMaterial PMMA
+
+##actors
+
+/gate/Phantom/daughters/name	PreBragg
+/gate/Phantom/daughters/insert	box
+/gate/PreBragg/geometry/setXLength 0.5 mm
+/gate/PreBragg/geometry/setYLength 0.5 mm
+/gate/PreBragg/geometry/setZLength 0.5 mm
+/gate/PreBragg/setMaterial PMMA
+/gate/PreBragg/placement/setTranslation	10 -5 0 mm
+
+/gate/Phantom/daughters/name	PostBragg
+/gate/Phantom/daughters/insert	box
+/gate/PostBragg/geometry/setXLength 0.5 mm
+/gate/PostBragg/geometry/setYLength 0.5 mm
+/gate/PostBragg/geometry/setZLength 0.5 mm
+/gate/PostBragg/setMaterial PMMA
+/gate/PostBragg/placement/setTranslation	20 -5 0 mm
+
+/gate/Phantom/daughters/name	Away
+/gate/Phantom/daughters/insert	box
+/gate/Away/geometry/setXLength 0.5 mm
+/gate/Away/geometry/setYLength 0.5 mm
+/gate/Away/geometry/setZLength 0.5 mm
+/gate/Away/setMaterial PMMA
+/gate/Away/placement/setTranslation	10 0 0 mm

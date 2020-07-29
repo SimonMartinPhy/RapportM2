@@ -1,0 +1,112 @@
+##World
+/gate/geometry/setMaterialDatabase	data/GateMaterials.db
+/gate/world/setMaterial Air
+/gate/world/geometry/setXLength 10 m
+/gate/world/geometry/setYLength 10 m
+/gate/world/geometry/setZLength 10 m
+
+##Phantom
+
+/gate/world/daughters/name	Phantom
+/gate/world/daughters/insert	box
+/gate/Phantom/geometry/setXLength	221 mm
+/gate/Phantom/geometry/setYLength	70 mm
+/gate/Phantom/geometry/setZLength	70 mm
+
+/gate/Phantom/daughters/name	PE1
+/gate/Phantom/daughters/insert	box
+/gate/PE1/geometry/setXLength	20 mm
+/gate/PE1/geometry/setYLength	70 mm
+/gate/PE1/geometry/setZLength	70 mm
+/gate/PE1/setMaterial Polyethylene
+/gate/PE1/placement/setTranslation	-100.5 0 0 mm
+
+/gate/Phantom/daughters/name	bone
+/gate/Phantom/daughters/insert	box
+/gate/bone/geometry/setXLength	2 mm
+/gate/bone/geometry/setYLength	70 mm
+/gate/bone/geometry/setZLength	70 mm
+/gate/bone/setMaterial BoneEquiv
+/gate/bone/placement/setTranslation	-89.5 0 0 mm
+
+/gate/Phantom/daughters/name	lung
+/gate/Phantom/daughters/insert	box
+/gate/lung/geometry/setXLength	28 mm
+/gate/lung/geometry/setYLength	40 mm
+/gate/lung/geometry/setZLength	70 mm
+/gate/lung/setMaterial LungEquiv
+/gate/lung/placement/setTranslation	-74.5 15 0 mm
+
+/gate/Phantom/daughters/name	PE2
+/gate/Phantom/daughters/insert	box
+/gate/PE2/geometry/setXLength	28 mm
+/gate/PE2/geometry/setYLength	30 mm
+/gate/PE2/geometry/setZLength	70 mm
+/gate/PE2/setMaterial Polyethylene
+/gate/PE2/placement/setTranslation	-74.5 -20 0 mm
+
+/gate/Phantom/daughters/name	muscle1
+/gate/Phantom/daughters/insert	box
+/gate/muscle1/geometry/setXLength	5 mm
+/gate/muscle1/geometry/setYLength	70 mm
+/gate/muscle1/geometry/setZLength	70 mm
+/gate/muscle1/setMaterial MuscleEquiv
+/gate/muscle1/placement/setTranslation	-58 0 0 mm
+
+/gate/Phantom/daughters/name	PE3
+/gate/Phantom/daughters/insert	box
+/gate/PE3/geometry/setXLength	20 mm
+/gate/PE3/geometry/setYLength	70 mm
+/gate/PE3/geometry/setZLength	70 mm
+/gate/PE3/setMaterial Polyethylene
+/gate/PE3/placement/setTranslation	-45.5 0 0 mm
+
+/gate/Phantom/daughters/name	PMMA
+/gate/Phantom/daughters/insert	box
+/gate/PMMA/geometry/setXLength	50 mm
+/gate/PMMA/geometry/setYLength	70 mm
+/gate/PMMA/geometry/setZLength	70 mm
+/gate/PMMA/setMaterial PMMA
+/gate/PMMA/placement/setTranslation	-10.5 0 0 mm
+
+/gate/Phantom/daughters/name	muscle2
+/gate/Phantom/daughters/insert	box
+/gate/muscle2/geometry/setXLength	40 mm
+/gate/muscle2/geometry/setYLength	70 mm
+/gate/muscle2/geometry/setZLength	70 mm
+/gate/muscle2/setMaterial MuscleEquiv
+/gate/muscle2/placement/setTranslation	34.5 0 0 mm
+
+/gate/Phantom/daughters/name	PE4
+/gate/Phantom/daughters/insert	box
+/gate/PE4/geometry/setXLength	56 mm
+/gate/PE4/geometry/setYLength	70 mm
+/gate/PE4/geometry/setZLength	70 mm
+/gate/PE4/setMaterial Polyethylene
+/gate/PE4/placement/setTranslation	82.5 0 0 mm
+
+##actors
+
+/gate/muscle2/daughters/name	detector
+/gate/muscle2/daughters/insert	box
+/gate/detector/geometry/setXLength 0.5 mm
+/gate/detector/geometry/setYLength 0.5 mm
+/gate/detector/geometry/setZLength 0.5 mm
+/gate/detector/setMaterial MuscleEquiv
+/gate/detector/placement/setTranslation	-10 -8 0 mm
+
+/gate/muscle2/daughters/name	detector2
+/gate/muscle2/daughters/insert	box
+/gate/detector2/geometry/setXLength 0.5 mm
+/gate/detector2/geometry/setYLength 0.5 mm
+/gate/detector2/geometry/setZLength 0.5 mm
+/gate/detector2/setMaterial MuscleEquiv
+/gate/detector2/placement/setTranslation	-10 -20 0 mm
+
+/gate/muscle2/daughters/name	detector3
+/gate/muscle2/daughters/insert	box
+/gate/detector3/geometry/setXLength 0.5 mm
+/gate/detector3/geometry/setYLength 0.5 mm
+/gate/detector3/geometry/setZLength 0.5 mm
+/gate/detector3/setMaterial MuscleEquiv
+/gate/detector3/placement/setTranslation	0 -8 0 mm
