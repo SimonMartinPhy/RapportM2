@@ -1,0 +1,106 @@
+\begin{thebibliography}{}
+
+\bibitem[Nup, 2014]{Nupecc}
+ (2014).
+\newblock Nupecc report "nuclear physics for medicine".
+
+\bibitem[Choi~Jinhyun, 2012]{Choi}
+Choi~Jinhyun, K. J.~O. (2012).
+\newblock Basics of particle therapy ii: relative biological effectiveness.
+\newblock {\em Radiat Oncol J}, 30(1):1--13.
+
+\bibitem[Embriaco, 2018]{Embriaco_2018}
+Embriaco, A. (2018).
+\newblock The {MONET} code for the evaluation of the dose in hadrontherapy.
+\newblock {\em Journal of Physics: Conference Series}, 956:012007.
+
+\bibitem[Enghardt et~al., 2004]{ENGHARDT2004284}
+Enghardt, W., Crespo, P., Fiedler, F., Hinz, R., Parodi, K., Pawelke, J., and
+  Pönisch, F. (2004).
+\newblock Charged hadron tumour therapy monitoring by means of pet.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment}, 525(1):284
+  -- 288.
+\newblock Proceedings of the International Conference on Imaging Techniques in
+  Subatomic Physics, Astrophysics, Medicine, Biology and Industry.
+
+\bibitem[Huisman et~al., 2016]{Huisman_2016}
+Huisman, B. F.~B., L{\'{e}}tang, J.~M., Testa, {\'{E}}., and Sarrut, D. (2016).
+\newblock Accelerated prompt gamma estimation for clinical proton therapy
+  simulations.
+\newblock {\em Physics in Medicine and Biology}, 61(21):7725--7743.
+
+\bibitem[Kanawati et~al., 2015]{El_Kanawati_2015}
+Kanawati, W.~E., L{\'{e}}tang, J.~M., Dauvergne, D., Pinto, M., Sarrut, D.,
+  Testa, {\'{E}}., and Freud, N. (2015).
+\newblock Monte carlo simulation of prompt$\gamma$-ray emission in proton
+  therapy using a specific track length estimator.
+\newblock {\em Physics in Medicine and Biology}, 60(20):8067--8086.
+
+\bibitem[Krimmer et~al., 2018]{KRIMMER201858}
+Krimmer, J., Dauvergne, D., Létang, J., and Testa, {\'{E}}. (2018).
+\newblock Prompt-gamma monitoring in hadrontherapy: A review.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment}, 878:58 --
+  73.
+\newblock Radiation Imaging Techniques and Applications.
+
+\bibitem[Lievens and Pijls-Johannesma, 2013]{LIEVENS2013134}
+Lievens, Y. and Pijls-Johannesma, M. (2013).
+\newblock Health economic controversy and cost-effectiveness of proton therapy.
+\newblock {\em Seminars in Radiation Oncology}, 23(2):134 -- 141.
+\newblock Controversies in Proton Therapy.
+
+\bibitem[Min et~al., 2006]{Min2006}
+Min, C.-H., Kim, C.~H., Youn, M.-Y., and Kim, J.-W. (2006).
+\newblock Prompt gamma measurements for locating the dose falloff region in the
+  proton therapy.
+\newblock {\em Applied Physics Letters}, 89(18):183517.
+
+\bibitem[Paganetti, 2012]{Paganetti2012}
+Paganetti, H. (2012).
+\newblock Range uncertainties in proton therapy and the role of monte carlo
+  simulations.
+\newblock {\em Physics in medicine and biology}, 57:R99--117.
+
+\bibitem[Parodi, 2015]{Parodi20157153}
+Parodi, K. (2015).
+\newblock Vision 20/20: Positron emission tomography in radiation therapy
+  planning, delivery, and monitoring.
+\newblock {\em Medical Physics}, 42(12):7153--7168.
+\newblock cited By 33.
+
+\bibitem[{Parodi} et~al., 2005]{1487723}
+{Parodi}, K., {Ponisch}, F., and {Enghardt}, W. (2005).
+\newblock Experimental study on the feasibility of in-beam pet for accurate
+  monitoring of proton therapy.
+\newblock {\em IEEE Transactions on Nuclear Science}, 52(3):778--786.
+
+\bibitem[Qin et~al., 2017]{Qin_2017}
+Qin, N., Pinto, M., Tian, Z., Dedes, G., Pompos, A., Jiang, S.~B., Parodi, K.,
+  and Jia, X. (2017).
+\newblock Initial development of {goCMC}: a {GPU}-oriented fast cross-platform
+  monte carlo engine for carbon ion therapy.
+\newblock {\em Physics in Medicine and Biology}, 62(9):3682--3699.
+
+\bibitem[Sterpin et~al., 2015]{Sterpin_2015}
+Sterpin, E., Janssens, G., Smeets, J., Stappen, F.~V., Prieels, D., Priegnitz,
+  M., Perali, I., and Vynckier, S. (2015).
+\newblock Analytical computation of prompt gamma ray emission and detection for
+  proton range verification.
+\newblock {\em Physics in Medicine and Biology}, 60(12):4915--4946.
+
+\bibitem[Testa et~al., 2008]{PGMonitoringC12}
+Testa, E., Bajard, M., Chevallier, M., Dauvergne, D., Le~Foulher, F., Freud,
+  N., Létang, J.-M., Poizat, J.-C., Ray, C., and Testa, M. (2008).
+\newblock Monitoring the bragg peak location of 73 mev per u carbon ions by
+  means of prompt $\gamma$-ray measurements.
+\newblock {\em Applied Physics Letters}, 93(9):093506.
+
+\bibitem[Wilson, 1946]{wilson}
+Wilson, R.~R. (1946).
+\newblock Radiological use of fast protons.
+\newblock {\em Radiology}, 47(5):487--491.
+\newblock PMID: 20274616.
+
+\end{thebibliography}
