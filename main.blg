@@ -8,45 +8,46 @@ Database file #1: references.bib
 Warning--to sort, need author or key in Nupecc
 Warning--empty author in Nupecc
 Warning--empty journal in Nupecc
-You've used 16 entries,
+Warning--empty year in MinSimu
+You've used 24 entries,
             1935 wiz_defined-function locations,
-            595 strings with 7011 characters,
-and the built_in function-call counts, 7176 in all, are:
-= -- 676
-> -- 350
+            642 strings with 9347 characters,
+and the built_in function-call counts, 12275 in all, are:
+= -- 1125
+> -- 749
 < -- 6
-+ -- 126
-- -- 124
-* -- 682
-:= -- 1259
-add.period$ -- 52
-call.type$ -- 16
-change.case$ -- 142
-chr.to.int$ -- 16
-cite$ -- 20
-duplicate$ -- 223
-empty$ -- 479
-format.name$ -- 141
-if$ -- 1373
++ -- 278
+- -- 274
+* -- 1222
+:= -- 2166
+add.period$ -- 76
+call.type$ -- 24
+change.case$ -- 257
+chr.to.int$ -- 24
+cite$ -- 29
+duplicate$ -- 335
+empty$ -- 732
+format.name$ -- 299
+if$ -- 2308
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 16
-newline$ -- 87
-num.names$ -- 45
-pop$ -- 104
+missing$ -- 24
+newline$ -- 127
+num.names$ -- 69
+pop$ -- 205
 preamble$ -- 1
-purify$ -- 142
+purify$ -- 257
 quote$ -- 0
-skip$ -- 166
+skip$ -- 244
 stack$ -- 0
-substring$ -- 550
-swap$ -- 15
+substring$ -- 875
+swap$ -- 23
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 96
-warning$ -- 3
-while$ -- 49
+type$ -- 144
+warning$ -- 4
+while$ -- 78
 width$ -- 0
-write$ -- 216
-(There were 3 warnings)
+write$ -- 319
+(There were 4 warnings)

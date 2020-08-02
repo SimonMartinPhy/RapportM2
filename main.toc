@@ -9,30 +9,30 @@
 \contentsline {subsection}{\numberline {1.3.1}Physique des interactions}{8}{subsection.1.3.1}%
 \contentsline {section}{\numberline {1.4}Contrôle du parcours des ions lors de l'hadronthérapie}{10}{section.1.4}%
 \contentsline {subsection}{\numberline {1.4.1}\'Etat de l'art}{10}{subsection.1.4.1}%
-\contentsline {subsubsection}{Système ne produisant pas d'image}{10}{section*.4}%
-\contentsline {subsubsection}{Caméra Collimatée}{10}{section*.5}%
-\contentsline {subsubsection}{Caméra Compton}{10}{section*.6}%
-\contentsline {subsection}{\numberline {1.4.2}Projet CLaRyS}{10}{subsection.1.4.2}%
-\contentsline {section}{\numberline {1.5}Simulations numériques de l'émission des rayons gamma prompts}{10}{section.1.5}%
-\contentsline {subsection}{\numberline {1.5.1}\'Etat de l'art}{10}{subsection.1.5.1}%
-\contentsline {subsection}{\numberline {1.5.2}La technique \enquote {vpgTLE}}{11}{subsection.1.5.2}%
-\contentsline {chapter}{\chapternumberline {2}Caractérisation de blocs BGO pour la détection de rayons gamma prompts}{12}{chapter.2}%
-\contentsline {chapter}{\chapternumberline {3}Modélisation de l'émission des rayons gamma par simulations Monte Carlo hybrides (vpgTLE)}{13}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introduction}{13}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Matériel et méthodes}{13}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}\'Etude de la corrélation entre énergie et temps d'émission des gammas}{13}{subsection.3.2.1}%
-\contentsline {subsubsection}{Fantôme homogène}{14}{section*.11}%
-\contentsline {subsubsection}{Fantôme hétérogène}{14}{section*.12}%
-\contentsline {subsubsection}{Fantôme réaliste}{15}{section*.13}%
-\contentsline {subsection}{\numberline {3.2.2}Implémentation de l'information temporelle dans le vpgTLE}{15}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3.3}Résultats}{15}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}\'Etude de la corrélation entre énergie et temps d'émission des gammas}{15}{subsection.3.3.1}%
-\contentsline {subsubsection}{Fantôme homogène}{15}{section*.14}%
-\contentsline {subsubsection}{Fantôme hétérogène}{16}{section*.15}%
-\contentsline {subsubsection}{Fantôme réaliste}{16}{section*.16}%
-\contentsline {paragraph}{Faisceau monoénergétique}{16}{section*.17}%
-\contentsline {paragraph}{Faisceau issu d'un plan de traitement}{16}{figure.3.9}%
-\contentsline {subsection}{\numberline {3.3.2}Implémentation de l'information temporelle dans le vpgTLE}{17}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}Discussion}{17}{section.3.4}%
-\contentsline {chapter}{Bibliographie}{18}{chapter*.19}%
-\contentsline {subsubsection}{Résultats faisceau mono-énergétique A enlever ??}{20}{section*.20}%
+\contentsline {subsubsection}{Systèmes ne produisant pas d'image}{10}{section*.4}%
+\contentsline {subsubsection}{Caméra Collimatée}{11}{section*.5}%
+\contentsline {subsubsection}{Caméra Compton}{11}{section*.6}%
+\contentsline {subsection}{\numberline {1.4.2}Projet CLaRyS}{11}{subsection.1.4.2}%
+\contentsline {section}{\numberline {1.5}Simulations numériques de l'émission des rayons gamma prompts}{11}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}\'Etat de l'art}{11}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}La technique \enquote {vpgTLE}}{12}{subsection.1.5.2}%
+\contentsline {chapter}{\chapternumberline {2}Caractérisation de blocs BGO pour la détection de rayons gamma prompts}{13}{chapter.2}%
+\contentsline {chapter}{\chapternumberline {3}Modélisation de l'émission des rayons gamma par simulations Monte Carlo hybrides (vpgTLE)}{14}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{14}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Matériel et méthodes}{14}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}\'Etude de la corrélation entre énergie et temps d'émission des gammas}{14}{subsection.3.2.1}%
+\contentsline {subsubsection}{Fantôme homogène}{15}{section*.11}%
+\contentsline {subsubsection}{Fantôme hétérogène}{15}{section*.12}%
+\contentsline {subsubsection}{Fantôme réaliste}{16}{section*.13}%
+\contentsline {subsection}{\numberline {3.2.2}Implémentation de l'information temporelle dans le vpgTLE}{16}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Résultats}{16}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}\'Etude de la corrélation entre énergie et temps d'émission des gammas}{16}{subsection.3.3.1}%
+\contentsline {subsubsection}{Fantôme homogène}{16}{section*.14}%
+\contentsline {subsubsection}{Fantôme hétérogène}{17}{section*.15}%
+\contentsline {subsubsection}{Fantôme réaliste}{17}{section*.16}%
+\contentsline {paragraph}{Faisceau monoénergétique}{17}{section*.17}%
+\contentsline {paragraph}{Faisceau issu d'un plan de traitement}{17}{figure.3.9}%
+\contentsline {subsection}{\numberline {3.3.2}Implémentation de l'information temporelle dans le vpgTLE}{18}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Discussion}{18}{section.3.4}%
+\contentsline {chapter}{Bibliographie}{19}{chapter*.19}%
+\contentsline {subsubsection}{Résultats faisceau mono-énergétique A enlever ??}{22}{section*.20}%

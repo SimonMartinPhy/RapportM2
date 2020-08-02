@@ -24,6 +24,22 @@ Enghardt, W., Crespo, P., Fiedler, F., Hinz, R., Parodi, K., Pawelke, J., and
 \newblock Proceedings of the International Conference on Imaging Techniques in
   Subatomic Physics, Astrophysics, Medicine, Biology and Industry.
 
+\bibitem[Golnik et~al., 2014]{Golnik_2014}
+Golnik, C., Hueso-Gonz{\'{a}}lez, F., Müller, A., Dendooven, P., Enghardt, W.,
+  Fiedler, F., Kormoll, T., Roemer, K., Petzoldt, J., Wagner, A., and Pausch,
+  G. (2014).
+\newblock Range assessment in particle therapy based on prompt$\gamma$-ray
+  timing measurements.
+\newblock {\em Physics in Medicine and Biology}, 59(18):5399--5422.
+
+\bibitem[Hueso-Gonz{\'{a}}lez et~al., 2015]{Hueso_Gonz_lez_2015}
+Hueso-Gonz{\'{a}}lez, F., Enghardt, W., Fiedler, F., Golnik, C., Janssens, G.,
+  Petzoldt, J., Prieels, D., Priegnitz, M., Römer, K.~E., Smeets, J., Stappen,
+  F.~V., Wagner, A., and Pausch, G. (2015).
+\newblock First test of the prompt gamma ray timing method with heterogeneous
+  targets at a clinical proton therapy facility.
+\newblock {\em Physics in Medicine and Biology}, 60(16):6247--6272.
+
 \bibitem[Huisman et~al., 2016]{Huisman_2016}
 Huisman, B. F.~B., L{\'{e}}tang, J.~M., Testa, {\'{E}}., and Sarrut, D. (2016).
 \newblock Accelerated prompt gamma estimation for clinical proton therapy
@@ -36,6 +52,14 @@ Kanawati, W.~E., L{\'{e}}tang, J.~M., Dauvergne, D., Pinto, M., Sarrut, D.,
 \newblock Monte carlo simulation of prompt$\gamma$-ray emission in proton
   therapy using a specific track length estimator.
 \newblock {\em Physics in Medicine and Biology}, 60(20):8067--8086.
+
+\bibitem[Krimmer et~al., 2017]{KrimmerPGPI}
+Krimmer, J., Angellier, G., Balleyguier, L., Dauvergne, D., Freud, N.,
+  Hérault, J., Létang, J.~M., Mathez, H., Pinto, M., Testa, E., and
+  Zoccarato, Y. (2017).
+\newblock A cost-effective monitoring technique in particle therapy via
+  uncollimated prompt gamma peak integration.
+\newblock {\em Applied Physics Letters}, 110(15):154102.
 
 \bibitem[Krimmer et~al., 2018]{KRIMMER201858}
 Krimmer, J., Dauvergne, D., Létang, J., and Testa, {\'{E}}. (2018).
@@ -57,6 +81,12 @@ Min, C.-H., Kim, C.~H., Youn, M.-Y., and Kim, J.-W. (2006).
   proton therapy.
 \newblock {\em Applied Physics Letters}, 89(18):183517.
 
+\bibitem[Min et~al., ]{MinSimu}
+Min, C.~H., Lee, H.~R., Kim, C.~H., and Lee, S.~B.
+\newblock Development of array-type prompt gamma measurement system for in vivo
+  range verification in proton therapy.
+\newblock {\em Medical Physics}, 39(4):2100--2107.
+
 \bibitem[Paganetti, 2012]{Paganetti2012}
 Paganetti, H. (2012).
 \newblock Range uncertainties in proton therapy and the role of monte carlo
@@ -76,12 +106,34 @@ Parodi, K. (2015).
   monitoring of proton therapy.
 \newblock {\em IEEE Transactions on Nuclear Science}, 52(3):778--786.
 
+\bibitem[Pinto et~al., 2014]{Pinto_2014}
+Pinto, M., Dauvergne, D., Freud, N., Krimmer, J., Letang, J.~M., Ray, C.,
+  Roellinghoff, F., and Testa, E. (2014).
+\newblock Design optimisation of a {TOF}-based collimated camera prototype for
+  online hadrontherapy monitoring.
+\newblock {\em Physics in Medicine and Biology}, 59(24):7653--7674.
+
+\bibitem[Pinto et~al., 2015]{PintoCollimated}
+Pinto, M., De~Rydt, M., Dauvergne, D., Dedes, G., Freud, N., Krimmer, J.,
+  Létang, J.~M., Ray, C., Testa, E., and Testa, M. (2015).
+\newblock Technical note: Experimental carbon ion range verification in
+  inhomogeneous phantoms using prompt gammas.
+\newblock {\em Medical Physics}, 42(5):2342--2346.
+
 \bibitem[Qin et~al., 2017]{Qin_2017}
 Qin, N., Pinto, M., Tian, Z., Dedes, G., Pompos, A., Jiang, S.~B., Parodi, K.,
   and Jia, X. (2017).
 \newblock Initial development of {goCMC}: a {GPU}-oriented fast cross-platform
   monte carlo engine for carbon ion therapy.
 \newblock {\em Physics in Medicine and Biology}, 62(9):3682--3699.
+
+\bibitem[Smeets et~al., 2012]{Smeets_2012}
+Smeets, J., Roellinghoff, F., Prieels, D., Stichelbaut, F., Benilov, A., Busca,
+  P., Fiorini, C., Peloso, R., Basilavecchia, M., Frizzi, T., Dehaes, J.~C.,
+  and Dubus, A. (2012).
+\newblock Prompt gamma imaging with a slit camera for real-time range control
+  in proton therapy.
+\newblock {\em Physics in Medicine and Biology}, 57(11):3371--3405.
 
 \bibitem[Sterpin et~al., 2015]{Sterpin_2015}
 Sterpin, E., Janssens, G., Smeets, J., Stappen, F.~V., Prieels, D., Priegnitz,
@@ -96,6 +148,13 @@ Testa, E., Bajard, M., Chevallier, M., Dauvergne, D., Le~Foulher, F., Freud,
 \newblock Monitoring the bragg peak location of 73 mev per u carbon ions by
   means of prompt $\gamma$-ray measurements.
 \newblock {\em Applied Physics Letters}, 93(9):093506.
+
+\bibitem[Testa et~al., 2014]{Testa_2014}
+Testa, M., Min, C.~H., Verburg, J.~M., Schümann, J., Lu, H.-M., and Paganetti,
+  H. (2014).
+\newblock Range verification of passively scattered proton beams based on
+  prompt gamma time patterns.
+\newblock {\em Physics in Medicine and Biology}, 59(15):4181--4195.
 
 \bibitem[Wilson, 1946]{wilson}
 Wilson, R.~R. (1946).

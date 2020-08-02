@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.31)  31 JUL 2020 16:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.31)  3 AUG 2020 01:03
 entering extended mode
 **./main.tex
 (main.tex
@@ -1300,173 +1300,183 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9 <./intro/Newhauser2015.PNG>] [10] [11] [12
+ [9 <./intro/Newhauser2015.PNG>]
+Overfull \hbox (0.43536pt too wide) in paragraph at lines 142--145
+\T1/ptm/m/n/10.95 (-20) jus-qu'à 2 mm pour des fan-tômes hé-té-ro-gènes dé-fi-n
+it ont put être dé-tec-tée [[]].
+ []
+
+[10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+[12] [13
 
 ]
 
-LaTeX Warning: Marginpar on page 13 moved by 28.99983pt.
+LaTeX Warning: Marginpar on page 14 moved by 28.99983pt.
 
 
-LaTeX Warning: Marginpar on page 13 moved by 84.64519pt.
+LaTeX Warning: Marginpar on page 14 moved by 84.64519pt.
 
-[13
+[14
 
 ]
-<homo/homofant.png, id=280, 952.55875pt x 320.19624pt>
+<homo/homofant.png, id=300, 952.55875pt x 320.19624pt>
 File: homo/homofant.png Graphic file (type png)
 <use homo/homofant.png>
-Package pdftex.def Info: homo/homofant.png  used on input line 187.
+Package pdftex.def Info: homo/homofant.png  used on input line 193.
 (pdftex.def)             Requested size: 285.76982pt x 96.0596pt.
-<Parodi/heterofant.png, id=281, 966.61125pt x 330.23375pt>
+<Parodi/heterofant.png, id=301, 966.61125pt x 330.23375pt>
 File: Parodi/heterofant.png Graphic file (type png)
 <use Parodi/heterofant.png>
-Package pdftex.def Info: Parodi/heterofant.png  used on input line 201.
+Package pdftex.def Info: Parodi/heterofant.png  used on input line 207.
 (pdftex.def)             Requested size: 289.98561pt x 99.07088pt.
-<homo/away.png, id=282, 538.01pt x 324.21124pt>
+<homo/away.png, id=302, 538.01pt x 324.21124pt>
 File: homo/away.png Graphic file (type png)
 <use homo/away.png>
-Package pdftex.def Info: homo/away.png  used on input line 218.
+Package pdftex.def Info: homo/away.png  used on input line 224.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<homo/prebragg.png, id=283, 538.01pt x 324.21124pt>
+<homo/prebragg.png, id=303, 538.01pt x 324.21124pt>
 File: homo/prebragg.png Graphic file (type png)
 <use homo/prebragg.png>
-Package pdftex.def Info: homo/prebragg.png  used on input line 219.
+Package pdftex.def Info: homo/prebragg.png  used on input line 225.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<homo/Bragg.png, id=284, 538.01pt x 324.21124pt>
+<homo/Bragg.png, id=304, 538.01pt x 324.21124pt>
 File: homo/Bragg.png Graphic file (type png)
 <use homo/Bragg.png>
-Package pdftex.def Info: homo/Bragg.png  used on input line 220.
+Package pdftex.def Info: homo/Bragg.png  used on input line 226.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
- [14 <./homo/homofant.png (PNG copy)> <./Parodi/heterofant.png>]
-<homo/PG/away.png, id=295, 538.01pt x 324.21124pt>
+ [15 <./homo/homofant.png (PNG copy)> <./Parodi/heterofant.png>]
+<homo/PG/away.png, id=315, 538.01pt x 324.21124pt>
 File: homo/PG/away.png Graphic file (type png)
 <use homo/PG/away.png>
-Package pdftex.def Info: homo/PG/away.png  used on input line 228.
+Package pdftex.def Info: homo/PG/away.png  used on input line 234.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<homo/PG/preBragg.png, id=296, 538.01pt x 324.21124pt>
+<homo/PG/preBragg.png, id=316, 538.01pt x 324.21124pt>
 File: homo/PG/preBragg.png Graphic file (type png)
 <use homo/PG/preBragg.png>
-Package pdftex.def Info: homo/PG/preBragg.png  used on input line 229.
+Package pdftex.def Info: homo/PG/preBragg.png  used on input line 235.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<homo/PG/postBragg.png, id=297, 538.01pt x 324.21124pt>
+<homo/PG/postBragg.png, id=317, 538.01pt x 324.21124pt>
 File: homo/PG/postBragg.png Graphic file (type png)
 <use homo/PG/postBragg.png>
-Package pdftex.def Info: homo/PG/postBragg.png  used on input line 230.
+Package pdftex.def Info: homo/PG/postBragg.png  used on input line 236.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<Parodi/away.png, id=298, 538.01pt x 324.21124pt>
+<Parodi/away.png, id=318, 538.01pt x 324.21124pt>
 File: Parodi/away.png Graphic file (type png)
 <use Parodi/away.png>
-Package pdftex.def Info: Parodi/away.png  used on input line 241.
+Package pdftex.def Info: Parodi/away.png  used on input line 247.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<Parodi/preBragg.png, id=299, 538.01pt x 324.21124pt>
+<Parodi/preBragg.png, id=319, 538.01pt x 324.21124pt>
 File: Parodi/preBragg.png Graphic file (type png)
 <use Parodi/preBragg.png>
-Package pdftex.def Info: Parodi/preBragg.png  used on input line 242.
+Package pdftex.def Info: Parodi/preBragg.png  used on input line 248.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<Parodi/Bragg.png, id=300, 538.01pt x 324.21124pt>
+<Parodi/Bragg.png, id=320, 538.01pt x 324.21124pt>
 File: Parodi/Bragg.png Graphic file (type png)
 <use Parodi/Bragg.png>
-Package pdftex.def Info: Parodi/Bragg.png  used on input line 243.
+Package pdftex.def Info: Parodi/Bragg.png  used on input line 249.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
 
 Underfull \vbox (badness 2941) has occurred while \output is active []
 
- [15 <./homo/away.png> <./homo/prebragg.png> <./homo/Bragg.png> <./homo/PG/away
+ [16 <./homo/away.png> <./homo/prebragg.png> <./homo/Bragg.png> <./homo/PG/away
 .png> <./homo/PG/preBragg.png> <./homo/PG/postBragg.png>]
-<Parodi/PG/away.png, id=309, 538.01pt x 324.21124pt>
+<Parodi/PG/away.png, id=329, 538.01pt x 324.21124pt>
 File: Parodi/PG/away.png Graphic file (type png)
 <use Parodi/PG/away.png>
-Package pdftex.def Info: Parodi/PG/away.png  used on input line 251.
+Package pdftex.def Info: Parodi/PG/away.png  used on input line 257.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<Parodi/PG/preBragg.png, id=310, 538.01pt x 324.21124pt>
+<Parodi/PG/preBragg.png, id=330, 538.01pt x 324.21124pt>
 File: Parodi/PG/preBragg.png Graphic file (type png)
 <use Parodi/PG/preBragg.png>
-Package pdftex.def Info: Parodi/PG/preBragg.png  used on input line 252.
+Package pdftex.def Info: Parodi/PG/preBragg.png  used on input line 258.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<Parodi/PG/Bragg.png, id=311, 538.01pt x 324.21124pt>
+<Parodi/PG/Bragg.png, id=331, 538.01pt x 324.21124pt>
 File: Parodi/PG/Bragg.png Graphic file (type png)
 <use Parodi/PG/Bragg.png>
-Package pdftex.def Info: Parodi/PG/Bragg.png  used on input line 253.
+Package pdftex.def Info: Parodi/PG/Bragg.png  used on input line 259.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<CT/130/profil.png, id=312, 434.62375pt x 426.59375pt>
+<CT/130/profil.png, id=332, 434.62375pt x 426.59375pt>
 File: CT/130/profil.png Graphic file (type png)
 <use CT/130/profil.png>
-Package pdftex.def Info: CT/130/profil.png  used on input line 268.
+Package pdftex.def Info: CT/130/profil.png  used on input line 274.
 (pdftex.def)             Requested size: 160.80826pt x 157.8372pt.
-<CT/TPS/profil.png, id=313, 434.62375pt x 426.59375pt>
+<CT/TPS/profil.png, id=333, 434.62375pt x 426.59375pt>
 File: CT/TPS/profil.png Graphic file (type png)
 <use CT/TPS/profil.png>
-Package pdftex.def Info: CT/TPS/profil.png  used on input line 269.
+Package pdftex.def Info: CT/TPS/profil.png  used on input line 275.
 (pdftex.def)             Requested size: 160.80826pt x 157.8372pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<CT/TPS/faisceauprot.png, id=314, 538.01pt x 324.21124pt>
+<CT/TPS/faisceauprot.png, id=334, 538.01pt x 324.21124pt>
 File: CT/TPS/faisceauprot.png Graphic file (type png)
 <use CT/TPS/faisceauprot.png>
-Package pdftex.def Info: CT/TPS/faisceauprot.png  used on input line 279.
+Package pdftex.def Info: CT/TPS/faisceauprot.png  used on input line 285.
 (pdftex.def)             Requested size: 199.06058pt x 119.95627pt.
-<CT/TPS/BraggProt.png, id=315, 538.01pt x 324.21124pt>
+<CT/TPS/BraggProt.png, id=335, 538.01pt x 324.21124pt>
 File: CT/TPS/BraggProt.png Graphic file (type png)
 <use CT/TPS/BraggProt.png>
-Package pdftex.def Info: CT/TPS/BraggProt.png  used on input line 280.
+Package pdftex.def Info: CT/TPS/BraggProt.png  used on input line 286.
 (pdftex.def)             Requested size: 199.06058pt x 119.95627pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<CT/TPS/faisceaugamma.png, id=316, 538.01pt x 324.21124pt>
+<CT/TPS/faisceaugamma.png, id=336, 538.01pt x 324.21124pt>
 File: CT/TPS/faisceaugamma.png Graphic file (type png)
 <use CT/TPS/faisceaugamma.png>
-Package pdftex.def Info: CT/TPS/faisceaugamma.png  used on input line 287.
+Package pdftex.def Info: CT/TPS/faisceaugamma.png  used on input line 293.
 (pdftex.def)             Requested size: 199.06058pt x 119.95627pt.
-<CT/TPS/BraggGamma.png, id=317, 538.01pt x 324.21124pt>
+<CT/TPS/BraggGamma.png, id=337, 538.01pt x 324.21124pt>
 File: CT/TPS/BraggGamma.png Graphic file (type png)
 <use CT/TPS/BraggGamma.png>
-Package pdftex.def Info: CT/TPS/BraggGamma.png  used on input line 288.
+Package pdftex.def Info: CT/TPS/BraggGamma.png  used on input line 294.
 (pdftex.def)             Requested size: 199.06058pt x 119.95627pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[16 <./Parodi/away.png> <./Parodi/preBragg.png> <./Parodi/Bragg.png> <./Parodi/
+[17 <./Parodi/away.png> <./Parodi/preBragg.png> <./Parodi/Bragg.png> <./Parodi/
 PG/away.png> <./Parodi/PG/preBragg.png> <./Parodi/PG/Bragg.png>] (main.bbl
-[17 <./CT/130/profil.png (PNG copy)> <./CT/TPS/profil.png (PNG copy)> <./CT/TPS
+[18 <./CT/130/profil.png (PNG copy)> <./CT/TPS/profil.png (PNG copy)> <./CT/TPS
 /faisceauprot.png> <./CT/TPS/BraggProt.png> <./CT/TPS/faisceaugamma.png> <./CT/
 TPS/BraggGamma.png>]
 bibitemlist
-[18
+[19
 
-]) [19]
-<CT/130/FaisceauProt.png, id=344, 538.01pt x 324.21124pt>
+] [20]) [21]
+<CT/130/FaisceauProt.png, id=368, 538.01pt x 324.21124pt>
 File: CT/130/FaisceauProt.png Graphic file (type png)
 <use CT/130/FaisceauProt.png>
-Package pdftex.def Info: CT/130/FaisceauProt.png  used on input line 310.
+Package pdftex.def Info: CT/130/FaisceauProt.png  used on input line 316.
 (pdftex.def)             Requested size: 199.06058pt x 119.95627pt.
-<CT/130/BraggProt.png, id=345, 538.01pt x 324.21124pt>
+<CT/130/BraggProt.png, id=369, 538.01pt x 324.21124pt>
 File: CT/130/BraggProt.png Graphic file (type png)
 <use CT/130/BraggProt.png>
-Package pdftex.def Info: CT/130/BraggProt.png  used on input line 311.
+Package pdftex.def Info: CT/130/BraggProt.png  used on input line 317.
 (pdftex.def)             Requested size: 199.06058pt x 119.95627pt.
-<CT/130/FaisceauGamma.png, id=346, 538.01pt x 324.21124pt>
+<CT/130/FaisceauGamma.png, id=370, 538.01pt x 324.21124pt>
 File: CT/130/FaisceauGamma.png Graphic file (type png)
 <use CT/130/FaisceauGamma.png>
-Package pdftex.def Info: CT/130/FaisceauGamma.png  used on input line 318.
+Package pdftex.def Info: CT/130/FaisceauGamma.png  used on input line 324.
 (pdftex.def)             Requested size: 199.06058pt x 119.95627pt.
-<CT/130/BraggGamma.png, id=347, 538.01pt x 324.21124pt>
+<CT/130/BraggGamma.png, id=371, 538.01pt x 324.21124pt>
 File: CT/130/BraggGamma.png Graphic file (type png)
 <use CT/130/BraggGamma.png>
-Package pdftex.def Info: CT/130/BraggGamma.png  used on input line 319.
+Package pdftex.def Info: CT/130/BraggGamma.png  used on input line 325.
 (pdftex.def)             Requested size: 199.06058pt x 119.95627pt.
- [20 <./CT/130/FaisceauProt.png> <./CT/130/BraggProt.png> <./CT/130/FaisceauGam
+ [22 <./CT/130/FaisceauProt.png> <./CT/130/BraggProt.png> <./CT/130/FaisceauGam
 ma.png> <./CT/130/BraggGamma.png>]
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 325.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 325.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 331.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 331.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 325.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 325.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 331.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 331.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: AF8A97964ACDCCA4D150EDB90DABE848;2081.
 
@@ -1475,11 +1485,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 26090 strings out of 481225
- 463066 string characters out of 2915928
- 817414 words of memory out of 3000000
- 40870 multiletter control sequences out of 15000+200000
- 616726 words of font info for 202 fonts, out of 3000000 for 9000
+ 26114 strings out of 481225
+ 463378 string characters out of 2915928
+ 811919 words of memory out of 3000000
+ 40878 multiletter control sequences out of 15000+200000
+ 617081 words of font info for 206 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,12n,83p,1758b,927s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/M
@@ -1494,9 +1504,9 @@ gram Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fon
 ts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times
 /utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Progr
 am Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (20 pages, 901383 bytes).
+Output written on main.pdf (22 pages, 909921 bytes).
 PDF statistics:
- 417 PDF objects out of 1000 (max. 8388607)
- 95 named destinations out of 1000 (max. 500000)
+ 443 PDF objects out of 1000 (max. 8388607)
+ 105 named destinations out of 1000 (max. 500000)
  26561 words of extra memory for PDF output out of 29859 (max. 10000000)
 
