@@ -1,53 +1,50 @@
-This is BibTeX, Version 0.99d
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: main.aux
-Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
-Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: references.bib
 Warning--to sort, need author or key in Nupecc
 Warning--empty author in Nupecc
 Warning--empty journal in Nupecc
-Warning--empty year in MinSimu
-You've used 24 entries,
+You've used 27 entries,
             1935 wiz_defined-function locations,
-            642 strings with 9347 characters,
-and the built_in function-call counts, 12275 in all, are:
-= -- 1125
-> -- 749
-< -- 6
-+ -- 278
-- -- 274
-* -- 1222
-:= -- 2166
-add.period$ -- 76
-call.type$ -- 24
-change.case$ -- 257
-chr.to.int$ -- 24
-cite$ -- 29
-duplicate$ -- 335
-empty$ -- 732
-format.name$ -- 299
-if$ -- 2308
+            663 strings with 10184 characters,
+and the built_in function-call counts, 13944 in all, are:
+= -- 1273
+> -- 867
+< -- 7
++ -- 322
+- -- 318
+* -- 1393
+:= -- 2466
+add.period$ -- 85
+call.type$ -- 27
+change.case$ -- 294
+chr.to.int$ -- 27
+cite$ -- 31
+duplicate$ -- 377
+empty$ -- 822
+format.name$ -- 346
+if$ -- 2617
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 24
-newline$ -- 127
-num.names$ -- 69
-pop$ -- 205
+missing$ -- 27
+newline$ -- 142
+num.names$ -- 78
+pop$ -- 233
 preamble$ -- 1
-purify$ -- 257
+purify$ -- 294
 quote$ -- 0
-skip$ -- 244
+skip$ -- 277
 stack$ -- 0
-substring$ -- 875
-swap$ -- 23
+substring$ -- 981
+swap$ -- 26
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 144
-warning$ -- 4
-while$ -- 78
+type$ -- 162
+warning$ -- 3
+while$ -- 88
 width$ -- 0
-write$ -- 319
-(There were 4 warnings)
+write$ -- 359
+(There were 3 warnings)

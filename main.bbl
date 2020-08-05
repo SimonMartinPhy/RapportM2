@@ -9,6 +9,13 @@ Choi~Jinhyun, K. J.~O. (2012).
 \newblock Basics of particle therapy ii: relative biological effectiveness.
 \newblock {\em Radiat Oncol J}, 30(1):1--13.
 
+\bibitem[Draeger et~al., 2016]{Draeger_2016}
+Draeger, E., Mackin, D., Peterson, S., Chen, H., Beddar, S., and Polf, J.
+  (2016).
+\newblock Su-f-j-189: A method to improve the spatial resolution of prompt
+  gamma based compton imaging for proton range verification.
+\newblock {\em Medical Physics}, 43(6Part11):3451--3451.
+
 \bibitem[Embriaco, 2018]{Embriaco_2018}
 Embriaco, A. (2018).
 \newblock The {MONET} code for the evaluation of the dose in hadrontherapy.
@@ -75,14 +82,20 @@ Lievens, Y. and Pijls-Johannesma, M. (2013).
 \newblock {\em Seminars in Radiation Oncology}, 23(2):134 -- 141.
 \newblock Controversies in Proton Therapy.
 
+\bibitem[Maxim, 2018]{Maxim_2018}
+Maxim, V. (2018).
+\newblock Enhancement of compton camera images reconstructed by inversion of a
+  conical radon transform.
+\newblock {\em Inverse Problems}, 35(1):014001.
+
 \bibitem[Min et~al., 2006]{Min2006}
 Min, C.-H., Kim, C.~H., Youn, M.-Y., and Kim, J.-W. (2006).
 \newblock Prompt gamma measurements for locating the dose falloff region in the
   proton therapy.
 \newblock {\em Applied Physics Letters}, 89(18):183517.
 
-\bibitem[Min et~al., ]{MinSimu}
-Min, C.~H., Lee, H.~R., Kim, C.~H., and Lee, S.~B.
+\bibitem[Min et~al., 2012]{MinSimu}
+Min, C.~H., Lee, H.~R., Kim, C.~H., and Lee, S.~B. (2012).
 \newblock Development of array-type prompt gamma measurement system for in vivo
   range verification in proton therapy.
 \newblock {\em Medical Physics}, 39(4):2100--2107.
@@ -126,6 +139,14 @@ Qin, N., Pinto, M., Tian, Z., Dedes, G., Pompos, A., Jiang, S.~B., Parodi, K.,
 \newblock Initial development of {goCMC}: a {GPU}-oriented fast cross-platform
   monte carlo engine for carbon ion therapy.
 \newblock {\em Physics in Medicine and Biology}, 62(9):3682--3699.
+
+\bibitem[Richter et~al., 2016]{Richter2016}
+Richter, C., Pausch, G., Barczyk, S., Priegnitz, M., Keitz, I., Thiele, J.,
+  Smeets, J., Stappen, F.~V., Bombelli, L., Fiorini, C., Hotoiu, L., Perali,
+  I., Prieels, D., Enghardt, W., and Baumann, M. (2016).
+\newblock First clinical application of a prompt gamma based in vivo proton
+  range verification system.
+\newblock {\em Radiotherapy and oncology}, 118:232--237.
 
 \bibitem[Smeets et~al., 2012]{Smeets_2012}
 Smeets, J., Roellinghoff, F., Prieels, D., Stichelbaut, F., Benilov, A., Busca,
