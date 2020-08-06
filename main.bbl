@@ -4,6 +4,17 @@
  (2014).
 \newblock Nupecc report "nuclear physics for medicine".
 
+\bibitem[{Caplan} et~al., 2019]{Caplan_2019}
+{Caplan}, C., {Allegrini}, O., {Cachemiche}, J.~., {Carlus}, B., {Chen}, X.,
+  {Dauvergne}, D., {Della-Negra}, R., {Fontana}, M., {Gallin-Martel}, L.,
+  {Gallin-Martel}, M.~., {Hérault}, J., {Lambert}, D., {Lu}, G.~., {Magne},
+  M., {Mathez}, H., {Montarou}, G., {Morel}, C., {Rodo Bordera}, M., {Testa},
+  E., and {Zoccarato}, Y. (2019).
+\newblock A $\mu$tca back-end firmware for data acquisition and slow control of
+  the clarys compton camera.
+\newblock In {\em 2019 IEEE Nuclear Science Symposium and Medical Imaging
+  Conference (NSS/MIC)}, pages 1--4.
+
 \bibitem[Choi~Jinhyun, 2012]{Choi}
 Choi~Jinhyun, K. J.~O. (2012).
 \newblock Basics of particle therapy ii: relative biological effectiveness.
@@ -30,6 +41,13 @@ Enghardt, W., Crespo, P., Fiedler, F., Hinz, R., Parodi, K., Pawelke, J., and
   -- 288.
 \newblock Proceedings of the International Conference on Imaging Techniques in
   Subatomic Physics, Astrophysics, Medicine, Biology and Industry.
+
+\bibitem[Fontana et~al., 2018]{Fontana_2018}
+Fontana, M., Dauvergne, D., Negra, R.~D., L{\'{e}}tang, J., Mounier, F., Testa,
+  {\'{E}}., Zanetti, L., and Zoccarato, Y. (2018).
+\newblock Large surface gamma cameras for medical imaging: characterization of
+  the bismuth germanate blocks.
+\newblock {\em Journal of Instrumentation}, 13(08):P08018--P08018.
 
 \bibitem[Golnik et~al., 2014]{Golnik_2014}
 Golnik, C., Hueso-Gonz{\'{a}}lez, F., Müller, A., Dendooven, P., Enghardt, W.,

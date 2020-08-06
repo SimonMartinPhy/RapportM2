@@ -153,6 +153,7 @@ La caméra Compton utilise un principe de collimation électronique basé sur la
 
 \subsection{Projet CLaRyS}
 
+Le projet CLaRyS (Contrôle en ligne de l’hadronthérapie par rayonnements gamma secondaire) est une collaboration entre 4 institutions françaises (IP2I-Lyon, LPSC-Grenoble, CPPM-Marseille, CREATIS-Lyon) se concentrant sur le développement de détecteur gamma pour le contrôle en ligne de l'hadronthérapie. Deux prototypes sont en cours de développement, une caméra compton et un caméra collimatée a fentes parallèles. Ces deux protoypes partagent le même absorbeur constitué de bloc de BGO et le même marquage temporel du faisceau réalisé par un hodoscope toutes ces parties sont reliés via un système d'acquisition décris dans \cite{Caplan_2019}. Les détecteurs de BGO sont issus d'une caméra TEP phillips et sont constitués d'un bloc de BGO $3.5 * 3.8 * 3$~cm$^3$ divisé en $8*8$ pseudopixels relié a 4 photomultiplicateurs. Chaque bloc doit être caractérisé en espaces en énergies et en temps. Un premier travail de caractérisation a été éfféctué par \cite{Fontana_2018} mais des mesures faisceau au Centre Antoine Lacassagne (CAL) de nice ont montré que le faisceau était trop intense ...
 
 
 \section{Simulations numériques de l'émission des rayons gamma prompts}
@@ -165,7 +166,7 @@ Le contrôle en temps réel des rayons gamma prompts (prompt gamma (PG) en angla
 
 Une première version \enquote{pgTLE} de cet outil a été développée pour les fantômes définis de manière analytiques \cite{El_Kanawati_2015}. Le gain en temps de calcul de cette version était estimé à $10^5$. Huisman \textit{et. al} ont proposé ensuite une version \enquote{voxélisée} (\enquote{vpgTLE}) fonctionnant pour tous les types de faisceau et de fantômes et accomplissant un gain d'efficacité de $10^3$ \cite{Huisman_2016}. \enquote{vpgTLE} est divisé en 2 parties : dans la première partie, c'est l'interaction des protons avec la cible qui est simulée afin d'obtenir les PG générés dans la cible avec à la fois la position d'émission et l'énergie du gamma  ; dans la deuxième partie de la simulation, les gammas sont propagés dans la géométrie simulée incluant le système de détection. L'énergie des gammas générés est tirée aléatoirement dans une base de données contenant le spectre des PG en fonction de l'énergie des protons incidents pour différents matériaux cible. Cette base de données est pré-calculée une fois pour toutes (avec un ensemble donné de modèles physiques (\enquote{physicslist})).
 
-Le deuxième objectif du stage (en parallèle du travail de caractérisation des blocs BGO) consistait à intégrer dans le module \enquote{pgTLE} l'information temporelle, c'est-à-dire le temps d'émission du PG. Cette information est nécessaire pour toutes les techniques de détection PG utilisant la mesure de temps de vol soit pour réduire le bruit de fond induit principalement par les neutrons secondaires (caméras gamma avec temps de vol, technique PGPI, technique PGS) soit pour obtenir une information indirecte sur le parcours des ions (PGT, TIARA)\todo{Toutes ces techniques doivent bien sûr avoir été introduites auparavant.}.
+Le deuxième objectif du stage (en parallèle du travail de caractérisation des blocs BGO) consistait à intégrer dans le module \enquote{pgTLE} l'information temporelle, c'est-à-dire le temps d'émission du PG. Cette information est nécessaire pour toutes les techniques de détection PG utilisant la mesure de temps de vol soit pour réduire le bruit de fond induit principalement par les neutrons secondaires (caméras gamma avec temps de vol, technique PGPI, technique PGS) soit pour obtenir une information indirecte sur le parcours des ions (PGT, TIARA).
 
 
 \openany
@@ -177,9 +178,7 @@ Le deuxième objectif du stage (en parallèle du travail de caractérisation des
 
 \section{Introduction}
 
-\todo{Commencer par donner des ordres de grandeurs de la mémoire qui serait requise dans le cas où nous souhaiterions corréler énergie et temps d'émission des PG.} Nous étudions ici la possibilité de stocker le temps de vol de façon indépendante à l'énergie des protons incident. Stocker ainsi le temps de vol dans un histogramme à une dimension permettrait d'optimiser le code et de garder un gain d'efficacité similaire à Huisman et al. 2016 sans temps de vol\todo{J'ai l'impression qu'il y a ici une confusion entre les ressources mémoire et le temps de calcul.}. 
-
-\todo{Terminer en introduisant le plan de cette partie.}
+\todo{Commencer par donner des ordres de grandeurs de la mémoire qui serait requise dans le cas où nous souhaiterions corréler énergie et temps d'émission des PG.} Nous montrerons dans un premier temps qu'il est raisonnable de stocker le temps de vol et l’énergie de façon indépendante, pour cela nous avons étudié trois cas, un cas homogènes simple et cas hétérogènes très défavorables ainsi qu'un cas réaliste. 
 
 \section{Matériel et méthodes}
 
@@ -190,7 +189,7 @@ Pour les deux premiers fantômes nous utiliserons un faisceau de protons circula
 
 \subsubsection{Fantôme homogène}
 
-Le fantôme utilisé est composé uniquement de PMMA de dimension $221*70*70~mm^3$. L'axe du faisceau est décalé de 7 mm en dessous de l'axe de fantôme. On s'intéresse à trois volumes de $0.5*0.5*0.5~mm^3$, un premier situé dans l'axe du faisceau avant le pic de Bragg situé à 120.5~mm de profondeur un autre situé à la même profondeur mais excentré du faisceau et un dernier situé dans le pic de Bragg à 130.5~mm de profondeur.\\
+Le fantôme utilisé est composé uniquement de PMMA de dimension $221*70*70$~mm$^3$. L'axe du faisceau est décalé de 7 mm en dessous de l'axe de fantôme. On s'intéresse à trois volumes de $0.5*0.5*0.5$~mm$^3$, un premier situé dans l'axe du faisceau avant le pic de Bragg situé à 120.5~mm de profondeur un autre situé à la même profondeur mais excentré du faisceau et un dernier situé dans le pic de Bragg à 130.5~mm de profondeur.\\
 \begin{figure}[h!]
     \centering
     \includegraphics[scale = 0.3]{homo/homofant.png}
@@ -302,8 +301,10 @@ Fantôme issu d'un plan de traitement ORL représentant un cas réaliste présen
 \subsection{Implémentation de l'information temporelle dans le vpgTLE}
 
 \section{Discussion}
+\subsection{\'Etude de la corrélation entre énergie et temps d'émission des gammas}
 Dans les trois cas de cette étude et pour tout les volumes nous trouvons un écart type de l'ordre de la dizaines de picosecondes. Or la résolution temporelle des détecteurs investigué dans le cadre de la collaboration CLaRys est de de 100~ps, dans cette limite nous stockerons donc le temps de vol indépendamment de l'énergie.  
 
+\subsection{Implémentation de l'information temporelle dans le vpgTLE}
 
 
 \bibliographystyle{apalike}
