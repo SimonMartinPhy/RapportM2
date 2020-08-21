@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.7.27)  6 AUG 2020 16:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.7.27)  21 AUG 2020 14:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1544,257 +1544,261 @@ Underfull \vbox (badness 1033) has occurred while \output is active []
  [2])
 [3]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 73.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 73.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 74.
  [4
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 75.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 76.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 75.
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 76.
-<intro/xrvshDuranteetal2016.png, id=155, 560.0925pt x 371.3875pt>
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 76.
+<intro/xrvshDuranteetal2016.png, id=165, 560.0925pt x 371.3875pt>
 File: intro/xrvshDuranteetal2016.png Graphic file (type png)
 <use intro/xrvshDuranteetal2016.png>
-Package pdftex.def Info: intro/xrvshDuranteetal2016.png  used on input line 79.
+Package pdftex.def Info: intro/xrvshDuranteetal2016.png  used on input line 80.
 
 (pdftex.def)             Requested size: 392.06207pt x 259.96947pt.
-<intro/LETDSS.png, id=159, 399.4925pt x 266.9975pt>
+
+Underfull \hbox (badness 1642) in paragraph at lines 81--81
+[]\T1/ptm/m/sc/10.95 (+20) Figure \T1/ptm/m/n/10.95 (+20) 1.1 ^^U []Comparaison
+ entre un plan de trai-te-ment de rayons X et d'ions car-bone
+ []
+
+<intro/LETDSS.png, id=171, 399.4925pt x 266.9975pt>
 File: intro/LETDSS.png Graphic file (type png)
 <use intro/LETDSS.png>
-Package pdftex.def Info: intro/LETDSS.png  used on input line 90.
+Package pdftex.def Info: intro/LETDSS.png  used on input line 91.
 (pdftex.def)             Requested size: 279.64284pt x 186.89696pt.
-
-Overfull \hbox (78.65456pt too wide) in paragraph at lines 95--96
+[5]
+Overfull \hbox (78.65456pt too wide) in paragraph at lines 96--97
 \T1/ptm/m/n/10.95 (-20) l'ha-dron-thé-ra-pie reste une tech-nique coû-teuse et 
 sa ren-ta-bi-lité est dif-fi-cile à éva-luer [[]].
  []
 
-[5] [6 <./intro/xrvshDuranteetal2016.png> <./intro/LETDSS.png>] [7]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./intro/xrvshDuranteetal2016.png> <./intro/LETDSS.png>] [7]
 <intro/Passive-left-and-active-right-beam-delivery-system-courtesy-of-IBA.png, 
-id=201, 640.3925pt x 203.76125pt>
+id=216, 640.3925pt x 203.76125pt>
 File: intro/Passive-left-and-active-right-beam-delivery-system-courtesy-of-IBA.
 png Graphic file (type png)
 <use intro/Passive-left-and-active-right-beam-delivery-system-courtesy-of-IBA.p
 ng>
 Package pdftex.def Info: intro/Passive-left-and-active-right-beam-delivery-syst
-em-courtesy-of-IBA.png  used on input line 110.
+em-courtesy-of-IBA.png  used on input line 111.
 (pdftex.def)             Requested size: 448.27168pt x 142.6319pt.
 
-Overfull \hbox (7.25395pt too wide) in paragraph at lines 110--111
+Overfull \hbox (7.25395pt too wide) in paragraph at lines 111--112
  [][] 
  []
 
-<intro/Newhauser2015.PNG, id=202, 316.18124pt x 205.9695pt>
+<intro/Newhauser2015.PNG, id=217, 316.18124pt x 205.9695pt>
 File: intro/Newhauser2015.PNG Graphic file (type png)
 <use intro/Newhauser2015.PNG>
 Package pdftex.def Info: intro/Newhauser2015.PNG  used on input line 122.
 (pdftex.def)             Requested size: 316.18047pt x 205.96898pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 [8 <./intro/Passive-left-and-active-right-beam-delivery-system-courtesy-of-IBA.
-png>]
+png>] [9 <./intro/Newhauser2015.PNG>]
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 139.
+ [10] [11]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9 <./intro/Newhauser2015.PNG>]
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 141.
-
-Overfull \hbox (0.43536pt too wide) in paragraph at lines 142--145
-\T1/ptm/m/n/10.95 (-20) jus-qu'à 2 mm pour des fan-tômes hé-té-ro-gènes dé-fi-n
-it ont put être dé-tec-tée [[]].
- []
-
-[10]
-Underfull \vbox (badness 1810) has occurred while \output is active []
-
- [11]
-[12] [13] [14
+ [12]
+[13] [14
 
 ]
-
-LaTeX Warning: Marginpar on page 15 moved by 49.39984pt.
-
-
-LaTeX Warning: Marginpar on page 15 moved by 84.64519pt.
-
-[15
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 182.
+ [15
 
 ]
-<homo/homofant.png, id=293, 952.55875pt x 320.19624pt>
+<homo/homofant.png, id=298, 952.55875pt x 320.19624pt>
 File: homo/homofant.png Graphic file (type png)
 <use homo/homofant.png>
-Package pdftex.def Info: homo/homofant.png  used on input line 197.
+Package pdftex.def Info: homo/homofant.png  used on input line 196.
 (pdftex.def)             Requested size: 285.76982pt x 96.0596pt.
-<Parodi/heterofant.png, id=294, 966.61125pt x 330.23375pt>
+<Parodi/heterofant.png, id=299, 966.61125pt x 330.23375pt>
 File: Parodi/heterofant.png Graphic file (type png)
 <use Parodi/heterofant.png>
-Package pdftex.def Info: Parodi/heterofant.png  used on input line 211.
+Package pdftex.def Info: Parodi/heterofant.png  used on input line 210.
 (pdftex.def)             Requested size: 289.98561pt x 99.07088pt.
-<homo/away.png, id=295, 538.01pt x 324.21124pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<homo/away.png, id=300, 538.01pt x 324.21124pt>
 File: homo/away.png Graphic file (type png)
 <use homo/away.png>
-Package pdftex.def Info: homo/away.png  used on input line 228.
+Package pdftex.def Info: homo/away.png  used on input line 229.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<homo/prebragg.png, id=296, 538.01pt x 324.21124pt>
+<homo/prebragg.png, id=301, 538.01pt x 324.21124pt>
 File: homo/prebragg.png Graphic file (type png)
 <use homo/prebragg.png>
-Package pdftex.def Info: homo/prebragg.png  used on input line 229.
+Package pdftex.def Info: homo/prebragg.png  used on input line 230.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<homo/Bragg.png, id=297, 538.01pt x 324.21124pt>
+<homo/Bragg.png, id=302, 538.01pt x 324.21124pt>
 File: homo/Bragg.png Graphic file (type png)
 <use homo/Bragg.png>
-Package pdftex.def Info: homo/Bragg.png  used on input line 230.
+Package pdftex.def Info: homo/Bragg.png  used on input line 231.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
- [16 <./homo/homofant.png (PNG copy)> <./Parodi/heterofant.png>]
-<homo/PG/away.png, id=307, 538.01pt x 324.21124pt>
+[16 <./homo/homofant.png (PNG copy)>]
+<homo/PG/away.png, id=311, 538.01pt x 324.21124pt>
 File: homo/PG/away.png Graphic file (type png)
 <use homo/PG/away.png>
-Package pdftex.def Info: homo/PG/away.png  used on input line 238.
+Package pdftex.def Info: homo/PG/away.png  used on input line 239.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<homo/PG/preBragg.png, id=308, 538.01pt x 324.21124pt>
+<homo/PG/preBragg.png, id=312, 538.01pt x 324.21124pt>
 File: homo/PG/preBragg.png Graphic file (type png)
 <use homo/PG/preBragg.png>
-Package pdftex.def Info: homo/PG/preBragg.png  used on input line 239.
+Package pdftex.def Info: homo/PG/preBragg.png  used on input line 240.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<homo/PG/postBragg.png, id=309, 538.01pt x 324.21124pt>
+<homo/PG/postBragg.png, id=313, 538.01pt x 324.21124pt>
 File: homo/PG/postBragg.png Graphic file (type png)
 <use homo/PG/postBragg.png>
-Package pdftex.def Info: homo/PG/postBragg.png  used on input line 240.
+Package pdftex.def Info: homo/PG/postBragg.png  used on input line 241.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<Parodi/away.png, id=310, 538.01pt x 324.21124pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Parodi/away.png, id=314, 538.01pt x 324.21124pt>
 File: Parodi/away.png Graphic file (type png)
 <use Parodi/away.png>
-Package pdftex.def Info: Parodi/away.png  used on input line 251.
+Package pdftex.def Info: Parodi/away.png  used on input line 252.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<Parodi/preBragg.png, id=311, 538.01pt x 324.21124pt>
+<Parodi/preBragg.png, id=315, 538.01pt x 324.21124pt>
 File: Parodi/preBragg.png Graphic file (type png)
 <use Parodi/preBragg.png>
-Package pdftex.def Info: Parodi/preBragg.png  used on input line 252.
+Package pdftex.def Info: Parodi/preBragg.png  used on input line 253.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<Parodi/Bragg.png, id=312, 538.01pt x 324.21124pt>
+<Parodi/Bragg.png, id=316, 538.01pt x 324.21124pt>
 File: Parodi/Bragg.png Graphic file (type png)
 <use Parodi/Bragg.png>
-Package pdftex.def Info: Parodi/Bragg.png  used on input line 253.
+Package pdftex.def Info: Parodi/Bragg.png  used on input line 254.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
 
-Underfull \vbox (badness 2941) has occurred while \output is active []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
- [17 <./homo/away.png> <./homo/prebragg.png> <./homo/Bragg.png> <./homo/PG/away
-.png> <./homo/PG/preBragg.png> <./homo/PG/postBragg.png>]
-<Parodi/PG/away.png, id=322, 538.01pt x 324.21124pt>
+<Parodi/PG/away.png, id=317, 538.01pt x 324.21124pt>
 File: Parodi/PG/away.png Graphic file (type png)
 <use Parodi/PG/away.png>
-Package pdftex.def Info: Parodi/PG/away.png  used on input line 261.
+Package pdftex.def Info: Parodi/PG/away.png  used on input line 262.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<Parodi/PG/preBragg.png, id=323, 538.01pt x 324.21124pt>
+<Parodi/PG/preBragg.png, id=318, 538.01pt x 324.21124pt>
 File: Parodi/PG/preBragg.png Graphic file (type png)
 <use Parodi/PG/preBragg.png>
-Package pdftex.def Info: Parodi/PG/preBragg.png  used on input line 262.
+Package pdftex.def Info: Parodi/PG/preBragg.png  used on input line 263.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<Parodi/PG/Bragg.png, id=324, 538.01pt x 324.21124pt>
+<Parodi/PG/Bragg.png, id=319, 538.01pt x 324.21124pt>
 File: Parodi/PG/Bragg.png Graphic file (type png)
 <use Parodi/PG/Bragg.png>
-Package pdftex.def Info: Parodi/PG/Bragg.png  used on input line 263.
+Package pdftex.def Info: Parodi/PG/Bragg.png  used on input line 264.
 (pdftex.def)             Requested size: 161.40424pt x 97.26411pt.
-<CT/130/profil.png, id=325, 434.62375pt x 426.59375pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<CT/130/profil.png, id=320, 434.62375pt x 426.59375pt>
 File: CT/130/profil.png Graphic file (type png)
 <use CT/130/profil.png>
-Package pdftex.def Info: CT/130/profil.png  used on input line 278.
+Package pdftex.def Info: CT/130/profil.png  used on input line 279.
 (pdftex.def)             Requested size: 160.80826pt x 157.8372pt.
-<CT/TPS/profil.png, id=326, 434.62375pt x 426.59375pt>
+<CT/TPS/profil.png, id=321, 434.62375pt x 426.59375pt>
 File: CT/TPS/profil.png Graphic file (type png)
 <use CT/TPS/profil.png>
-Package pdftex.def Info: CT/TPS/profil.png  used on input line 279.
+Package pdftex.def Info: CT/TPS/profil.png  used on input line 280.
 (pdftex.def)             Requested size: 160.80826pt x 157.8372pt.
 
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<CT/TPS/faisceauprot.png, id=327, 538.01pt x 324.21124pt>
+<CT/TPS/faisceauprot.png, id=322, 538.01pt x 324.21124pt>
 File: CT/TPS/faisceauprot.png Graphic file (type png)
 <use CT/TPS/faisceauprot.png>
-Package pdftex.def Info: CT/TPS/faisceauprot.png  used on input line 289.
+Package pdftex.def Info: CT/TPS/faisceauprot.png  used on input line 290.
 (pdftex.def)             Requested size: 199.06058pt x 119.95627pt.
-<CT/TPS/BraggProt.png, id=328, 538.01pt x 324.21124pt>
+<CT/TPS/BraggProt.png, id=323, 538.01pt x 324.21124pt>
 File: CT/TPS/BraggProt.png Graphic file (type png)
 <use CT/TPS/BraggProt.png>
-Package pdftex.def Info: CT/TPS/BraggProt.png  used on input line 290.
+Package pdftex.def Info: CT/TPS/BraggProt.png  used on input line 291.
 (pdftex.def)             Requested size: 199.06058pt x 119.95627pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<CT/TPS/faisceaugamma.png, id=329, 538.01pt x 324.21124pt>
+<CT/TPS/faisceaugamma.png, id=324, 538.01pt x 324.21124pt>
 File: CT/TPS/faisceaugamma.png Graphic file (type png)
 <use CT/TPS/faisceaugamma.png>
-Package pdftex.def Info: CT/TPS/faisceaugamma.png  used on input line 297.
+Package pdftex.def Info: CT/TPS/faisceaugamma.png  used on input line 298.
 (pdftex.def)             Requested size: 199.06058pt x 119.95627pt.
-<CT/TPS/BraggGamma.png, id=330, 538.01pt x 324.21124pt>
+<CT/TPS/BraggGamma.png, id=325, 538.01pt x 324.21124pt>
 File: CT/TPS/BraggGamma.png Graphic file (type png)
 <use CT/TPS/BraggGamma.png>
-Package pdftex.def Info: CT/TPS/BraggGamma.png  used on input line 298.
+Package pdftex.def Info: CT/TPS/BraggGamma.png  used on input line 299.
 (pdftex.def)             Requested size: 199.06058pt x 119.95627pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[18 <./Parodi/away.png> <./Parodi/preBragg.png> <./Parodi/Bragg.png> <./Parodi/
-PG/away.png> <./Parodi/PG/preBragg.png> <./Parodi/PG/Bragg.png>] (./main.bbl
-[19 <./CT/130/profil.png (PNG copy)> <./CT/TPS/profil.png (PNG copy)> <./CT/TPS
-/faisceauprot.png> <./CT/TPS/BraggProt.png> <./CT/TPS/faisceaugamma.png> <./CT/
-TPS/BraggGamma.png>]
-bibitemlist
-[20
+[17 <./Parodi/heterofant.png> <./homo/away.png> <./homo/prebragg.png> <./homo/B
+ragg.png>] (./main.bbl
+Underfull \vbox (badness 3872) has occurred while \output is active []
 
-] [21] [22]) [23]
-<CT/130/FaisceauProt.png, id=366, 538.01pt x 324.21124pt>
+ [18 <./homo/PG/away.png> <./homo/PG/preBragg.png> <./homo/PG/postBragg.png> <.
+/Parodi/away.png> <./Parodi/preBragg.png> <./Parodi/Bragg.png>] [19 <./Parodi/P
+G/away.png> <./Parodi/PG/preBragg.png> <./Parodi/PG/Bragg.png> <./CT/130/profil
+.png (PNG copy)> <./CT/TPS/profil.png (PNG copy)> <./CT/TPS/faisceauprot.png> <
+./CT/TPS/BraggProt.png>] [20 <./CT/TPS/faisceaugamma.png> <./CT/TPS/BraggGamma.
+png>]
+bibitemlist
+[21
+
+] [22]) [23]
+<CT/130/FaisceauProt.png, id=371, 538.01pt x 324.21124pt>
 File: CT/130/FaisceauProt.png Graphic file (type png)
 <use CT/130/FaisceauProt.png>
-Package pdftex.def Info: CT/130/FaisceauProt.png  used on input line 320.
+Package pdftex.def Info: CT/130/FaisceauProt.png  used on input line 323.
 (pdftex.def)             Requested size: 199.06058pt x 119.95627pt.
-<CT/130/BraggProt.png, id=367, 538.01pt x 324.21124pt>
+<CT/130/BraggProt.png, id=372, 538.01pt x 324.21124pt>
 File: CT/130/BraggProt.png Graphic file (type png)
 <use CT/130/BraggProt.png>
-Package pdftex.def Info: CT/130/BraggProt.png  used on input line 321.
+Package pdftex.def Info: CT/130/BraggProt.png  used on input line 324.
 (pdftex.def)             Requested size: 199.06058pt x 119.95627pt.
-<CT/130/FaisceauGamma.png, id=368, 538.01pt x 324.21124pt>
+<CT/130/FaisceauGamma.png, id=373, 538.01pt x 324.21124pt>
 File: CT/130/FaisceauGamma.png Graphic file (type png)
 <use CT/130/FaisceauGamma.png>
-Package pdftex.def Info: CT/130/FaisceauGamma.png  used on input line 328.
+Package pdftex.def Info: CT/130/FaisceauGamma.png  used on input line 331.
 (pdftex.def)             Requested size: 199.06058pt x 119.95627pt.
-<CT/130/BraggGamma.png, id=369, 538.01pt x 324.21124pt>
+<CT/130/BraggGamma.png, id=374, 538.01pt x 324.21124pt>
 File: CT/130/BraggGamma.png Graphic file (type png)
 <use CT/130/BraggGamma.png>
-Package pdftex.def Info: CT/130/BraggGamma.png  used on input line 329.
+Package pdftex.def Info: CT/130/BraggGamma.png  used on input line 332.
 (pdftex.def)             Requested size: 199.06058pt x 119.95627pt.
  [24 <./CT/130/FaisceauProt.png> <./CT/130/BraggProt.png> <./CT/130/FaisceauGam
 ma.png> <./CT/130/BraggGamma.png>]
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 335.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 335.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 338.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 338.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 335.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 335.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 338.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 338.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 2A380277458B05EA65C0C00A08046A25;2081.
+(rerunfilecheck)             Checksum: 63F6E77B837E90E59DE0C3E748B3AB3C;2318.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 25292 strings out of 492982
- 441215 string characters out of 6134896
- 612885 words of memory out of 5000000
- 28104 multiletter control sequences out of 15000+600000
- 85728 words of font info for 191 fonts, out of 8000000 for 9000
+ 25245 strings out of 492982
+ 440255 string characters out of 6134896
+ 595245 words of memory out of 5000000
+ 28068 multiletter control sequences out of 15000+600000
+ 89541 words of font info for 189 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,12n,76p,1756b,713s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,12n,76p,1716b,713s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
 fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc
 }{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc
@@ -1807,10 +1811,10 @@ texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.p
 fb>
-Output written on main.pdf (24 pages, 870721 bytes).
+Output written on main.pdf (24 pages, 870428 bytes).
 PDF statistics:
- 445 PDF objects out of 1000 (max. 8388607)
- 371 compressed objects within 4 object streams
- 113 named destinations out of 1000 (max. 500000)
- 26465 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 448 PDF objects out of 1000 (max. 8388607)
+ 372 compressed objects within 4 object streams
+ 108 named destinations out of 1000 (max. 500000)
+ 27505 words of extra memory for PDF output out of 29859 (max. 10000000)
 

@@ -9,7 +9,7 @@
 \BOOKMARK [1][-]{section.1.4}{Contr\364le du parcours des ions lors de l'hadronth\351rapie}{chapter.1}% 9
 \BOOKMARK [2][-]{subsection.1.4.1}{\311tat de l'art}{section.1.4}% 10
 \BOOKMARK [2][-]{subsection.1.4.2}{Projet CLaRyS}{section.1.4}% 11
-\BOOKMARK [1][-]{section.1.5}{Simulations num\351riques de l'\351mission des rayons gamma prompts}{chapter.1}% 12
+\BOOKMARK [1][-]{section.1.5}{Simulations num\351riques de l'\351mission des rayons PG}{chapter.1}% 12
 \BOOKMARK [2][-]{subsection.1.5.1}{\311tat de l'art}{section.1.5}% 13
 \BOOKMARK [2][-]{subsection.1.5.2}{La technique "vpgTLE"}{section.1.5}% 14
 \BOOKMARK [0][-]{chapter.2}{Caract\351risation de blocs BGO pour la d\351tection de rayons gamma prompts}{}% 15
@@ -22,4 +22,6 @@
 \BOOKMARK [2][-]{subsection.3.3.1}{\311tude de la corr\351lation entre \351nergie et temps d'\351mission des gammas}{section.3.3}% 22
 \BOOKMARK [2][-]{subsection.3.3.2}{Impl\351mentation de l'information temporelle dans le vpgTLE}{section.3.3}% 23
 \BOOKMARK [1][-]{section.3.4}{Discussion}{chapter.3}% 24
-\BOOKMARK [0][-]{section*.20}{Bibliographie}{}% 25
+\BOOKMARK [2][-]{subsection.3.4.1}{\311tude de la corr\351lation entre \351nergie et temps d'\351mission des gammas}{section.3.4}% 25
+\BOOKMARK [2][-]{subsection.3.4.2}{Impl\351mentation de l'information temporelle dans le vpgTLE}{section.3.4}% 26
+\BOOKMARK [0][-]{section*.15}{Bibliographie}{}% 27

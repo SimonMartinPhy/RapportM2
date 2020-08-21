@@ -20,27 +20,21 @@ Choi~Jinhyun, K. J.~O. (2012).
 \newblock Basics of particle therapy ii: relative biological effectiveness.
 \newblock {\em Radiat Oncol J}, 30(1):1--13.
 
-\bibitem[Draeger et~al., 2016]{Draeger_2016}
-Draeger, E., Mackin, D., Peterson, S., Chen, H., Beddar, S., and Polf, J.
-  (2016).
-\newblock Su-f-j-189: A method to improve the spatial resolution of prompt
-  gamma based compton imaging for proton range verification.
-\newblock {\em Medical Physics}, 43(6Part11):3451--3451.
+\bibitem[Durante et~al., 2017]{Durante2017}
+Durante, M., Orecchia, R., and Loeffler, J.~S. (2017).
+\newblock Charged-particle therapy in cancer: clinical uses and future
+  perspectives.
+\newblock {\em Nature Reviews Clinical Oncology}, 14(8):483--495.
+
+\bibitem[Durante and Paganetti, 2016]{Durante_2016}
+Durante, M. and Paganetti, H. (2016).
+\newblock Nuclear physics in particle therapy: a review.
+\newblock {\em Reports on Progress in Physics}, 79(9):096702.
 
 \bibitem[Embriaco, 2018]{Embriaco_2018}
 Embriaco, A. (2018).
 \newblock The {MONET} code for the evaluation of the dose in hadrontherapy.
 \newblock {\em Journal of Physics: Conference Series}, 956:012007.
-
-\bibitem[Enghardt et~al., 2004]{ENGHARDT2004284}
-Enghardt, W., Crespo, P., Fiedler, F., Hinz, R., Parodi, K., Pawelke, J., and
-  Pönisch, F. (2004).
-\newblock Charged hadron tumour therapy monitoring by means of pet.
-\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
-  Accelerators, Spectrometers, Detectors and Associated Equipment}, 525(1):284
-  -- 288.
-\newblock Proceedings of the International Conference on Imaging Techniques in
-  Subatomic Physics, Astrophysics, Medicine, Biology and Industry.
 
 \bibitem[Fontana et~al., 2018]{Fontana_2018}
 Fontana, M., Dauvergne, D., Negra, R.~D., L{\'{e}}tang, J., Mounier, F., Testa,
@@ -48,6 +42,15 @@ Fontana, M., Dauvergne, D., Negra, R.~D., L{\'{e}}tang, J., Mounier, F., Testa,
 \newblock Large surface gamma cameras for medical imaging: characterization of
   the bismuth germanate blocks.
 \newblock {\em Journal of Instrumentation}, 13(08):P08018--P08018.
+
+\bibitem[{Fontana} et~al., 2020]{Fontana_2020}
+{Fontana}, M., {Ley}, J.~., {Dauvergne}, D., {Freud}, N., {Krimmer}, J.,
+  {Létang}, J.~M., {Maxim}, V., {Richard}, M.~., {Rinaldi}, I., and {Testa},
+  E. (2020).
+\newblock Monitoring ion beam therapy with a compton camera: Simulation studies
+  of the clinical feasibility.
+\newblock {\em IEEE Transactions on Radiation and Plasma Medical Sciences},
+  4(2):218--232.
 
 \bibitem[Golnik et~al., 2014]{Golnik_2014}
 Golnik, C., Hueso-Gonz{\'{a}}lez, F., Müller, A., Dendooven, P., Enghardt, W.,
@@ -86,25 +89,21 @@ Krimmer, J., Angellier, G., Balleyguier, L., Dauvergne, D., Freud, N.,
   uncollimated prompt gamma peak integration.
 \newblock {\em Applied Physics Letters}, 110(15):154102.
 
-\bibitem[Krimmer et~al., 2018]{KRIMMER201858}
-Krimmer, J., Dauvergne, D., Létang, J., and Testa, {\'{E}}. (2018).
-\newblock Prompt-gamma monitoring in hadrontherapy: A review.
-\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
-  Accelerators, Spectrometers, Detectors and Associated Equipment}, 878:58 --
-  73.
-\newblock Radiation Imaging Techniques and Applications.
-
 \bibitem[Lievens and Pijls-Johannesma, 2013]{LIEVENS2013134}
 Lievens, Y. and Pijls-Johannesma, M. (2013).
 \newblock Health economic controversy and cost-effectiveness of proton therapy.
 \newblock {\em Seminars in Radiation Oncology}, 23(2):134 -- 141.
 \newblock Controversies in Proton Therapy.
 
-\bibitem[Maxim, 2018]{Maxim_2018}
-Maxim, V. (2018).
-\newblock Enhancement of compton camera images reconstructed by inversion of a
-  conical radon transform.
-\newblock {\em Inverse Problems}, 35(1):014001.
+\bibitem[{Marcatili} et~al., 2019]{Marcatili_2019}
+{Marcatili}, S., {Curtoni}, S., {Dauvergne}, D., {Haddad}, F., {Jacquet}, M.,
+  {Koumeir}, C., {Létang}, J.~M., {Livingstone}, J., {Métivier}, V.,
+  {Gallin-Martel}, L., {Gallin-Martel}, M., {Muraz}, J., {Servagent}, N., and
+  {Testa}, E. (2019).
+\newblock A 100 ps tof detection system for on-line range-monitoring in
+  hadrontherapy.
+\newblock In {\em 2019 IEEE Nuclear Science Symposium and Medical Imaging
+  Conference (NSS/MIC)}, pages 1--4.
 
 \bibitem[Min et~al., 2006]{Min2006}
 Min, C.-H., Kim, C.~H., Youn, M.-Y., and Kim, J.-W. (2006).
@@ -143,20 +142,6 @@ Pinto, M., Dauvergne, D., Freud, N., Krimmer, J., Letang, J.~M., Ray, C.,
 \newblock Design optimisation of a {TOF}-based collimated camera prototype for
   online hadrontherapy monitoring.
 \newblock {\em Physics in Medicine and Biology}, 59(24):7653--7674.
-
-\bibitem[Pinto et~al., 2015]{PintoCollimated}
-Pinto, M., De~Rydt, M., Dauvergne, D., Dedes, G., Freud, N., Krimmer, J.,
-  Létang, J.~M., Ray, C., Testa, E., and Testa, M. (2015).
-\newblock Technical note: Experimental carbon ion range verification in
-  inhomogeneous phantoms using prompt gammas.
-\newblock {\em Medical Physics}, 42(5):2342--2346.
-
-\bibitem[Qin et~al., 2017]{Qin_2017}
-Qin, N., Pinto, M., Tian, Z., Dedes, G., Pompos, A., Jiang, S.~B., Parodi, K.,
-  and Jia, X. (2017).
-\newblock Initial development of {goCMC}: a {GPU}-oriented fast cross-platform
-  monte carlo engine for carbon ion therapy.
-\newblock {\em Physics in Medicine and Biology}, 62(9):3682--3699.
 
 \bibitem[Richter et~al., 2016]{Richter2016}
 Richter, C., Pausch, G., Barczyk, S., Priegnitz, M., Keitz, I., Thiele, J.,
