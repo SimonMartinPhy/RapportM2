@@ -17,24 +17,28 @@
 \contentsline {subsection}{\numberline {1.5.1}\'Etat de l'art}{13}{subsection.1.5.1}
 \contentsline {subsection}{\numberline {1.5.2}La technique \enquote {vpgTLE}}{13}{subsection.1.5.2}
 \contentsline {chapter}{\chapternumberline {2}Caract\IeC {\'e}risation de blocs BGO pour la d\IeC {\'e}tection de rayons gamma prompts}{14}{chapter.2}
-\contentsline {chapter}{\chapternumberline {3}Mod\IeC {\'e}lisation de l'\IeC {\'e}mission des rayons gamma par simulations Monte Carlo hybrides (vpgTLE)}{15}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction}{15}{section.3.1}
-\contentsline {section}{\numberline {3.2}Mat\IeC {\'e}riel et m\IeC {\'e}thodes}{15}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}\'Etude de la corr\IeC {\'e}lation entre \IeC {\'e}nergie et temps d'\IeC {\'e}mission des gammas}{15}{subsection.3.2.1}
-\contentsline {subsubsection}{Fant\IeC {\^o}me homog\IeC {\`e}ne}{16}{section*.6}
-\contentsline {subsubsection}{Fant\IeC {\^o}me h\IeC {\'e}t\IeC {\'e}rog\IeC {\`e}ne}{16}{section*.7}
-\contentsline {subsubsection}{Fant\IeC {\^o}me r\IeC {\'e}aliste}{16}{section*.8}
-\contentsline {subsection}{\numberline {3.2.2}Impl\IeC {\'e}mentation de l'information temporelle dans le vpgTLE}{17}{subsection.3.2.2}
-\contentsline {section}{\numberline {3.3}R\IeC {\'e}sultats}{17}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}\'Etude de la corr\IeC {\'e}lation entre \IeC {\'e}nergie et temps d'\IeC {\'e}mission des gammas}{17}{subsection.3.3.1}
-\contentsline {subsubsection}{Fant\IeC {\^o}me homog\IeC {\`e}ne}{17}{section*.9}
-\contentsline {subsubsection}{Fant\IeC {\^o}me h\IeC {\'e}t\IeC {\'e}rog\IeC {\`e}ne}{17}{section*.10}
-\contentsline {subsubsection}{Fant\IeC {\^o}me r\IeC {\'e}aliste}{17}{section*.11}
-\contentsline {paragraph}{Faisceau mono\IeC {\'e}nerg\IeC {\'e}tique}{17}{section*.12}
-\contentsline {paragraph}{Faisceau issu d'un plan de traitement}{17}{figure.3.9}
-\contentsline {subsection}{\numberline {3.3.2}Impl\IeC {\'e}mentation de l'information temporelle dans le vpgTLE}{18}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}Discussion}{18}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}\'Etude de la corr\IeC {\'e}lation entre \IeC {\'e}nergie et temps d'\IeC {\'e}mission des gammas}{18}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Impl\IeC {\'e}mentation de l'information temporelle dans le vpgTLE}{19}{subsection.3.4.2}
-\contentsline {chapter}{Bibliographie}{21}{section*.15}
-\contentsline {subsubsection}{R\IeC {\'e}sultats faisceau mono-\IeC {\'e}nerg\IeC {\'e}tique A enlever ??}{24}{section*.16}
+\contentsline {section}{\numberline {2.1}Introduction}{14}{section.2.1}
+\contentsline {section}{\numberline {2.2}Mat\IeC {\'e}riel et m\IeC {\'e}thodes}{14}{section.2.2}
+\contentsline {section}{\numberline {2.3}R\IeC {\'e}sultats}{16}{section.2.3}
+\contentsline {section}{\numberline {2.4}Discussion}{16}{section.2.4}
+\contentsline {chapter}{\chapternumberline {3}Mod\IeC {\'e}lisation de l'\IeC {\'e}mission des rayons gamma par simulations Monte Carlo hybrides (vpgTLE)}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{17}{section.3.1}
+\contentsline {section}{\numberline {3.2}Mat\IeC {\'e}riel et m\IeC {\'e}thodes}{17}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}\'Etude de la corr\IeC {\'e}lation entre \IeC {\'e}nergie et temps d'\IeC {\'e}mission des gammas}{17}{subsection.3.2.1}
+\contentsline {subsubsection}{Fant\IeC {\^o}me homog\IeC {\`e}ne}{18}{section*.5}
+\contentsline {subsubsection}{Fant\IeC {\^o}me h\IeC {\'e}t\IeC {\'e}rog\IeC {\`e}ne}{18}{section*.6}
+\contentsline {subsubsection}{Fant\IeC {\^o}me r\IeC {\'e}aliste}{18}{section*.7}
+\contentsline {subsection}{\numberline {3.2.2}Impl\IeC {\'e}mentation de l'information temporelle dans le vpgTLE}{19}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}R\IeC {\'e}sultats}{19}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}\'Etude de la corr\IeC {\'e}lation entre \IeC {\'e}nergie et temps d'\IeC {\'e}mission des gammas}{19}{subsection.3.3.1}
+\contentsline {subsubsection}{Fant\IeC {\^o}me homog\IeC {\`e}ne}{19}{section*.8}
+\contentsline {subsubsection}{Fant\IeC {\^o}me h\IeC {\'e}t\IeC {\'e}rog\IeC {\`e}ne}{19}{section*.9}
+\contentsline {subsubsection}{Fant\IeC {\^o}me r\IeC {\'e}aliste}{19}{section*.10}
+\contentsline {paragraph}{Faisceau mono\IeC {\'e}nerg\IeC {\'e}tique}{19}{section*.11}
+\contentsline {paragraph}{Faisceau issu d'un plan de traitement}{19}{figure.3.9}
+\contentsline {subsection}{\numberline {3.3.2}Impl\IeC {\'e}mentation de l'information temporelle dans le vpgTLE}{20}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Discussion}{20}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}\'Etude de la corr\IeC {\'e}lation entre \IeC {\'e}nergie et temps d'\IeC {\'e}mission des gammas}{20}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Impl\IeC {\'e}mentation de l'information temporelle dans le vpgTLE}{21}{subsection.3.4.2}
+\contentsline {chapter}{Bibliographie}{23}{section*.14}
+\contentsline {subsubsection}{R\IeC {\'e}sultats faisceau mono-\IeC {\'e}nerg\IeC {\'e}tique A enlever ??}{26}{section*.15}

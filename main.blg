@@ -6,45 +6,45 @@ Database file #1: references.bib
 Warning--to sort, need author or key in Nupecc
 Warning--empty author in Nupecc
 Warning--empty journal in Nupecc
-You've used 27 entries,
+You've used 28 entries,
             1935 wiz_defined-function locations,
-            663 strings with 10508 characters,
-and the built_in function-call counts, 14666 in all, are:
-= -- 1319
-> -- 973
-< -- 9
-+ -- 368
-- -- 360
-* -- 1468
-:= -- 2588
-add.period$ -- 83
-call.type$ -- 27
-change.case$ -- 315
-chr.to.int$ -- 27
-cite$ -- 31
-duplicate$ -- 395
-empty$ -- 833
-format.name$ -- 390
-if$ -- 2754
+            668 strings with 10606 characters,
+and the built_in function-call counts, 15092 in all, are:
+= -- 1363
+> -- 986
+< -- 10
++ -- 374
+- -- 364
+* -- 1507
+:= -- 2658
+add.period$ -- 86
+call.type$ -- 28
+change.case$ -- 322
+chr.to.int$ -- 28
+cite$ -- 32
+duplicate$ -- 409
+empty$ -- 865
+format.name$ -- 397
+if$ -- 2837
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 27
-newline$ -- 140
-num.names$ -- 78
-pop$ -- 268
+missing$ -- 28
+newline$ -- 145
+num.names$ -- 81
+pop$ -- 272
 preamble$ -- 1
-purify$ -- 315
+purify$ -- 322
 quote$ -- 0
-skip$ -- 287
+skip$ -- 298
 stack$ -- 0
-substring$ -- 961
-swap$ -- 36
+substring$ -- 1006
+swap$ -- 37
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 162
+type$ -- 168
 warning$ -- 3
-while$ -- 90
+while$ -- 94
 width$ -- 0
-write$ -- 355
+write$ -- 368
 (There were 3 warnings)
